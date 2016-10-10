@@ -1,0 +1,10 @@
+{
+  "name": "elpho/event",
+  "description": "Event system for the elpho framework",
+  "autoload": {
+    "psr-4": {
+      "elpho\\event\\": "src/"
+    }
+  },
+  "license": "ISC"
+}
